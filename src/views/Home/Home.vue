@@ -1,13 +1,6 @@
 <template>
 
-  <ul>
-    <li>
-      
-      <h2>Home</h2>
-    </li>
-  </ul>
-
-  <h1 class="titulo">BANCO DE TALENTOS</h1>>
+  <h1 class="titulo">BANCO DE TALENTOS</h1>
 </template>
 
 <style scoped>
